@@ -14,5 +14,5 @@ sh NTFSMounter.sh
 and following instructions.  
 
 # Requirements  
-You will need homebrew installed.  
+You will need homebrew installed. If you havn't install it, check [install homebrew](https://brew.sh/).  s
 You will need macFUSE installed. If you havn't install it, the script would help you with that.  
