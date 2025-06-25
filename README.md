@@ -15,4 +15,9 @@ and following instructions.
 
 # Requirements  
 You will need homebrew installed. If you havn't install it, check [install homebrew](https://brew.sh/).  
-You will need macFUSE installed. If you havn't install it, the script would help you with that.  
+You will need macFUSE installed. If you havn't install it, use home brew to install it.
+```
+brew install macFUSE
+```
+Or download .pkg installer from [macFUSE](https://macfuse.github.io/)
+
